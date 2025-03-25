@@ -4,7 +4,9 @@ public class Main {
         int b=4;
         int c=a+b;
         int d = a * b;
+        int e=a-b;
         System.out.println(c);
         System.out.println(d);
+        System.out.println(e);
     }
 }
