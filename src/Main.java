@@ -8,9 +8,12 @@ public class Main {
         int e=a/b;
 
         int f=a-b;
+        int g=a*2;
+
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
+        System.out.println(g);
     }
 }
