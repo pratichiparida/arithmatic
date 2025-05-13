@@ -21,5 +21,7 @@ public class Main {
         System.out.println("hey girl");
         System.out.println("happy world");
         System.out.println("another one");
+
+        System.out.println("a");
     }
 }
